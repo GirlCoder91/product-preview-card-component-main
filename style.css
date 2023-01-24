@@ -1,0 +1,12 @@
+body {
+    background-color: hsl(30, 38%, 92%);
+}
+
+img {
+    width: 345px;
+    border-radius: 3%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
